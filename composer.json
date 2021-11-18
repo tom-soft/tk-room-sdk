@@ -3,9 +3,8 @@
     "description": "Talk cloud room sdk for thinkphp6",
     "type": "library",
     "require": {
-        "php": "7.1.0",
-        "topthink/framework": "6.0.0",
-        "guzzlehttp/guzzle": "7.0"
+        "topthink/framework": "^6.0.0",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "license": "MIT",
     "autoload": {
