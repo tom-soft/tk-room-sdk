@@ -1,0 +1,23 @@
+{
+    "name": "tomsoft/tk-room",
+    "description": "Talk cloud room sdk for thinkphp6",
+    "type": "library",
+    "require": {
+        "php": "7.1.0",
+        "topthink/framework": "6.0.0",
+        "guzzlehttp/guzzle": "7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tomsoft\\TkRoom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tom Yu",
+            "email": "45054958@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
